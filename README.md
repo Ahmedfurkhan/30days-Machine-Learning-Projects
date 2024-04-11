@@ -1,6 +1,6 @@
 # Machine-Learning
 
-- Day-1 : Introduction to A.I & Machine Learning
+- Day-1 : [Introduction to A.I & Machine Learning](https://github.com/Ahmedfurkhan/Machine-Learning-Projects/tree/main/Introduction-Ml)
 - Day-2 : Exploring Various Python Notebooks
 - Day -3 : Sale Prediction using LOGISTIC REGRESSION
 - Day - 4 : Salary estimation using K-NEAREST NEIGHBOUR
