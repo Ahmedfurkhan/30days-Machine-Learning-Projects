@@ -1,2 +1,32 @@
 # Machine-Learning
- 
+
+- Day-1 : Introduction to A.I & Machine Learning
+- Day-2 : Exploring Various Python Notebooks
+- Day -3 : Sale Prediction using LOGISTIC REGRESSION
+- Day - 4 : Salary estimation using K-NEAREST NEIGHBOUR
+- Day-5 : Handwritten Digit Recognition using SUPPORT VECTOR MACHINE CLASSIFIER
+- Day - 6 : Titanic Survival prediction using NAIVE BAYES
+- Day - 7 : Plant leaf Iris detection using DECISION TREE
+- Day - 8 : Digit recognition using RANDOM FOREST
+- Day - 9 : Evaluating Classification model Performance
+- Day-10 : Breast Cancer Detection using various ML Algorithm - Evaluation
+- Day-11 : House price prediction using Linear Regression Single Variable
+- Day-12 : Exam mark prediction using LINEAR REGRESSION - MULTIPLE VALUES
+- Day-13 : Salary Prediction using POLYNOMIAL REGRESSION
+- Day - 14 : Stock Price Prediction using SUPPORT VECTOR REGRESSION
+- Day - 15 : Height Prediction using DECISION TREE REGRESSION
+- Day - 16 : Car Price Prediction using RANDOM FOREST REGRESSION
+- Day - 17 : Evaluating Regression Model Using R-Squared & Adjusted R-Squared
+- Day - 18 : Regression Model Selection for Engine Energy prediction
+- Day - 19 : Income Spent Clustering using K-Means
+- Day - 20 : Income & Spent Analysis using Hierarchical Clustering
+- Day - 21 : Clustering Plant Iris Using Principal Component Analysis
+- Day - 22 : Movie Recommendation System Using Singular Value Decomposition
+- Day - 23 : Market Basket Analysis using APIRIORI
+- Day - 24 : Market Basket Analysis using ECLAT
+- Day - 25 : Web Ad Optimization using Upper Confidence Bound - Reinforcement Learning
+- Day - 26 : Sentimental Analysis using Natural Language Processing
+- Day - 27 : Breast Cancer tumor Detection using XGBOOST
+- Day - 28 : Introduction to Deep Learning & Diabetes detection using Simple Neural Network
+- Day - 29 : Covid-19 Detection using CNN
+- Day-30 : A.I Snake Game using REINFORCEMENT LEARNING
