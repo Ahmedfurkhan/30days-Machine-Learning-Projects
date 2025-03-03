@@ -3,7 +3,7 @@
 - Day-1 : [Introduction to A.I & Machine Learning](https://github.com/Ahmedfurkhan/Machine-Learning-Projects/tree/main/Introduction-Ml)
 - Day-2 : [Exploring Various Python Notebooks](https://www.anaconda.com/download)
 - Day -3 : [Sale Prediction using LOGISTIC REGRESSION](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/Sale%20Prediction%20using%20LOGISTIC%20REGRESSION)
-- Day - 4 : Salary estimation using K-NEAREST NEIGHBOUR
+- Day - 4 : [Salary estimation using K-NEAREST NEIGHBOUR](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/Salary%20estimation%20using%20K-NEAREST%20NEIGHBOUR)
 - Day-5 : Handwritten Digit Recognition using SUPPORT VECTOR MACHINE CLASSIFIER
 - Day - 6 : Titanic Survival prediction using NAIVE BAYES
 - Day - 7 : Plant leaf Iris detection using DECISION TREE
