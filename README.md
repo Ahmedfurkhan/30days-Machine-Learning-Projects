@@ -4,12 +4,12 @@
 - Day-2 : [Exploring Various Python Notebooks](https://www.anaconda.com/download)
 - Day -3 : [Sale Prediction using LOGISTIC REGRESSION](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/Sale%20Prediction%20using%20LOGISTIC%20REGRESSION)
 - Day - 4 : [Salary estimation using K-NEAREST NEIGHBOUR](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/Salary%20estimation%20using%20K-NEAREST%20NEIGHBOUR)
-- Day-5 : Handwritten Digit Recognition using SUPPORT VECTOR MACHINE CLASSIFIER
-- Day - 6 : Titanic Survival prediction using NAIVE BAYES
-- Day - 7 : Plant leaf Iris detection using DECISION TREE
-- Day - 8 : Digit recognition using RANDOM FOREST
-- Day - 9 : Evaluating Classification model Performance
-- Day-10 : Breast Cancer Detection using various ML Algorithm - Evaluation
+- Day-5 : [Handwritten Digit Recognition using SUPPORT VECTOR MACHINE CLASSIFIER](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/HandwrittenDigitRecognition_SVMClassifier)
+- Day - 6 : [Titanic Survival prediction using NAIVE BAYES](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/TitanicSurvivalPrediction_NAIVEBAYES)
+- Day - 7 : [Plant leaf Iris detection using DECISION TREE](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/PlantFlowerIrisDetection_DECISIONTREE)
+- Day - 8 : [Digit recognition using RANDOM FOREST](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/DigitRecognitionusing_RANDOMFOREST)
+- Day - 9 : [Evaluating Classification model Performance](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/EvaluatingModelPerformance)
+- Day-10 : [Breast Cancer Detection using various ML Algorithm - Evaluation](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/BreastCancerDetection_VariousMLAlgorithm)
 - Day-11 : House price prediction using Linear Regression Single Variable
 - Day-12 : Exam mark prediction using LINEAR REGRESSION - MULTIPLE VALUES
 - Day-13 : Salary Prediction using POLYNOMIAL REGRESSION
