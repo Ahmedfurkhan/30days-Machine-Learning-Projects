@@ -10,7 +10,7 @@
 - Day - 8 : [Digit recognition using RANDOM FOREST](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/DigitRecognitionusing_RANDOMFOREST)
 - Day - 9 : [Evaluating Classification model Performance](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/EvaluatingModelPerformance)
 - Day-10 : [Breast Cancer Detection using various ML Algorithm - Evaluation](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/BreastCancerDetection_VariousMLAlgorithm)
-- Day-11 : House price prediction using Linear Regression Single Variable
+- Day-11 : [House price prediction using Linear Regression Single Variable](https://github.com/Ahmedfurkhan/30days-Machine-Learning-Projects/tree/main/HousePricePredictionusing_LinearRegression)
 - Day-12 : Exam mark prediction using LINEAR REGRESSION - MULTIPLE VALUES
 - Day-13 : Salary Prediction using POLYNOMIAL REGRESSION
 - Day - 14 : Stock Price Prediction using SUPPORT VECTOR REGRESSION
